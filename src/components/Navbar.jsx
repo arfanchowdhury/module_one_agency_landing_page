@@ -1,5 +1,5 @@
 import { CompanyLogo } from "./CompanyLogo";
-import { NavBarLink } from "./NavBarLink";
+import { NavLink } from "./NavLink";
 
 export function Navbar() {
   let imgUrl = "./src/assets/logo.svg";
@@ -34,9 +34,9 @@ export function Navbar() {
           id="mobile-menu-2"
         >
           <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
-            { nav_items.map((item) => (
+            {nav_items.map((item) => (
               <li key={item.id}>
-                <NavBarLink
+                <NavLink
                   url={item.url}
                   item={item.item}
                   active={item.active}
