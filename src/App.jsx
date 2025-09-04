@@ -1,4 +1,5 @@
 import { CompaniesLogo } from "./components/CompaniesLogo";
+import { FAQSection } from "./components/FAQSection";
 import { Header } from "./components/Header";
 import { HeroSection } from "./components/HeroSection";
 import { PricingSection } from "./components/PricingSection";
@@ -16,6 +17,7 @@ export default function App() {
       <StatsSection />
       <TestimonialSection />
       <PricingSection />
+      <FAQSection />
     </>
   );
 }
