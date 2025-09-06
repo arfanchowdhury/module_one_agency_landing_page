@@ -62,7 +62,7 @@ export function Service() {
           />
           <Image
             className="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex"
-            src="./src/assets/features/feature-1.png"
+            src="/images/features/feature-1.png"
             alt="dashboard feature image"
           />
         </div>
@@ -71,7 +71,7 @@ export function Service() {
         <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
           <Image
             className="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex"
-            src="./src/assets/features/feature-2.png"
+            src="/images/features/feature-2.png"
             alt="feature image 2"
           />
           <ServiceCard

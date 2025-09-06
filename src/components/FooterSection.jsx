@@ -56,7 +56,7 @@ export function FooterSection() {
         {/* <!-- Sub Footer 2 --> */}
         <div className="text-center">
           <CompanyLogo
-            imgUrl="./src/assets/logo.svg"
+            imgUrl="/images/logo.svg"
             title="Learn with Sumit"
             className="flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white"
           />

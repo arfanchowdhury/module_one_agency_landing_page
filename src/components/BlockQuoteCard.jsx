@@ -15,7 +15,7 @@ export function BlockQuoteCard({ icon, quote }) {
         image={
           <Image
             className="w-6 h-6 rounded-full"
-            src="./src/assets/avatar/michael-gouch.png"
+            src="/images/avatar/michael-gouch.png"
             alt="profile picture"
           />
         }
