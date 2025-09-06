@@ -6,7 +6,7 @@ import { PricingSection } from "./components/PricingSection";
 import { Service } from "./components/Service";
 import { StatsSection } from "./components/StatsSection";
 import { TestimonialSection } from "./components/TestimonialSection";
-
+import { TrialSection } from "./components/TrialSection";
 export default function App() {
   return (
     <>
@@ -18,6 +18,7 @@ export default function App() {
       <TestimonialSection />
       <PricingSection />
       <FAQSection />
+      <TrialSection />
     </>
   );
 }
