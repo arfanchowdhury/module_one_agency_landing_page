@@ -1,12 +1,20 @@
-# React + Vite
+# Agency Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
 
-Currently, two official plugins are available:
+This project is a simple agency landing page designed to showcase services and attract potential clients. Initially created using HTML and Tailwind CSS, the project has been converted to a React.js application for better scalability and maintainability. The landing page features a modern design, responsive layout, and smooth user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
 
-## Expanding the ESLint configuration
+- **React.js**: A JavaScript library for building user interfaces.
+- **Vite**: A fast build tool and development server for modern web projects.
+- **Tailwind CSS V4.1.12**: A utility-first CSS framework for creating custom designs.
+- **Vercel**: A platform for deploying frontend applications with ease.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/arfanchowdhury/module_one_agency_landing_page.git
