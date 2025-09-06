@@ -3,7 +3,7 @@ import { CompanyLogo } from "./CompanyLogo";
 import { NavLink } from "./NavLink";
 
 export function Navbar() {
-  let imgUrl = "./src/assets/logo.svg";
+  let imgUrl = "/images/logo.svg";
   let title = "Learn with Sumit";
 
   let nav_items = [

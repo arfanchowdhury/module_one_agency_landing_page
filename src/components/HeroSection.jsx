@@ -34,7 +34,7 @@ export function HeroSection() {
           </div>
         </div>
         <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
-          <Image src={"./src/assets/hero.png"} alt={"hero image"} />
+          <Image src={"/images/hero.png"} alt={"hero image"} />
         </div>
       </div>
     </section>
